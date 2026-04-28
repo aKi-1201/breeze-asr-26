@@ -1,6 +1,6 @@
-﻿# [breeze-asr-26-Colab](https://colab.research.google.com/drive/1lZu_-rbS2kNo8TiWi3JritU5c2gp6NSR?usp=sharing)
-
 # Breeze-ASR-26 台語語音辨識測試 v.1
+
+﻿## [Colab-link](https://colab.research.google.com/drive/1lZu_-rbS2kNo8TiWi3JritU5c2gp6NSR?usp=sharing)
 
 ### ● 簡介
 Breeze-ASR-26 是 MediaTek Research 針對台語 (Taigi) 的自動語音辨識模型（基於 Whisper 微調），模型與說明可參考:
